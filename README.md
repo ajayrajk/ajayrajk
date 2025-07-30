@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajay Kumar.
 - 👀 I’m interested in Data Structure and Algorithms, Distributed Sytem, System Design, learning and working with these technology like Spring Boot, Kafka, Cassandra, Redis, Kubernate, Microserivces Architecture, Core Java, Android Application development, PostgreSQL, Kotlin new features.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...React JS and Angular.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at ajayhbti11@gmail.com
 - Connect on: https://www.linkedin.com/in/ajayraj11/ 
